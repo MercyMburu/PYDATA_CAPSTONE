@@ -57,9 +57,6 @@ Visualizing key trends and correlations (e.g., between subscribers and video vie
 
 ## Insights & Findings
 
-(You can fill these in after reviewing your charts)
-Examples might include:
-
 Entertainment and Music categories dominate global viewership.
 
 Channels with frequent uploads or consistent engagement tend to have higher subscriber-to-view ratios.
