@@ -33,8 +33,7 @@ Loaded the dataset using pandas (encoding='windows-1254' due to special characte
 
 Dropped irrelevant columns such as:
 'Gross tertiary education enrollment (%)', 'Population', 
-'Unemployment rate', 'Urban_population', 'Latitude', 'Longitude',
-'subscribers_for_last_30_days'
+'Unemployment rate', 'Urban_population', 'Latitude', 'Longitude'
 
 Filled missing categorical values with 'Not Available'.
 
